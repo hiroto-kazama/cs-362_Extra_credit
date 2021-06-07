@@ -5,6 +5,3 @@ def reverse(a):
         word = temp
     return word
 
-a = "reverse is done"
-
-print(reverse(a))
