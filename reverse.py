@@ -4,4 +4,3 @@ def reverse(a):
         temp = i + word
         word = temp
     return word
-
